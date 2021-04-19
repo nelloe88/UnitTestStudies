@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`compoente de transacao do extratp O snapshot do compoente deve  permanecer sempre o mesmo 1`] = `
+<div
+  class="transacao-container"
+>
+  <p />
+  <p />
+  <p>
+    R$ 
+    0
+  </p>
+</div>
+`;
